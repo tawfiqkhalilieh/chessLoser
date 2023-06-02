@@ -1,0 +1,6 @@
+player.py
+__pycache__/
+env/
+venv/
+*.pyc
+fish.exe/
